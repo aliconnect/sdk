@@ -1,7 +1,7 @@
 # README Hyperlinks
 
 
-See also [WIKI Hyperlinks](../../../../wiki/Wiki-Hyperlinks) `../../../../wiki/Wiki-Hyperlinks`
+See also [WIKI Hyperlinks](//github.com/aliconnect/sdk/wiki/Wiki-Hyperlinks) `//github.com/aliconnect/sdk/wiki/Wiki-Hyperlinks`
 
 
 

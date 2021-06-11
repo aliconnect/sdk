@@ -1,6 +1,10 @@
-# Samples document README
+# README Hyperlinks
 
-# Hyperlinks
+
+See also [WIKI Hyperlinks](../../../../wiki/Wiki-Hyperlinks) `../../../../wiki/Wiki-Hyperlinks`
+
+
+
 
 | link | code |
 | ------- | ------- |

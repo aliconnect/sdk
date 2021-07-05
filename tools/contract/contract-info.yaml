@@ -1,0 +1,113 @@
+Functionaris van de Gegevensverwerking:
+  voorletters en achternaam: a
+  mail adres: readAsDataURL
+  telefoonummer: fgsdgfsd
+hoofdverantwoordelijke voor de verwerking van persoonsgegevens:
+  isFG: ja
+  voorletters en achternaam: a
+  mail adres: readAsDataURL
+  telefoonummer: fgsdgfsd
+operationele verantwoordelijke voor de verwerking van persoonsgegevens:
+  nvt: nee
+  voorletters en achternaam: a
+  mail adres: readAsDataURL
+  telefoonummer: fgsdgfsd
+# categorie reguliere persoonsgegevens:
+categorien:
+  - Naam, adres, woonplaats
+  - Geboorteplaats en/of -datum/leeftijd
+  - E-mailadres/telefoonnummer
+  - Salarisgegevens
+  - HR gegevens
+  - Opleiding(sniveau)/beroep
+  - Resultaten van toetsen/testen
+  - BSN
+  - Fysieke gegevens/persoonlijke kenmerken
+  - Gezinssamenstelling
+  - Vrijetijdsbesteding en interesses
+  - Lidmaatschappen
+  - Consumptiegewoontes
+  - Woningkenmerken
+  - Gegevens over het persoonlijke leven
+  - Economische en financiële gegevens
+  - Digitale gegevens (IP adressen, inloggegevens)
+  - Locatiegegevens
+  - Lidmaatschappen
+  - Anders
+Van welke categorie betrokkenen komen deze persoonsgegevens:
+  - Klanten
+  - Bezoekers
+  - Leden
+  - Prospecten
+  - Leerlingen
+  - Personeel
+  - Donateurs
+  - Relaties/contactpersonen
+  - Vrijwilligers
+  - Patiënten
+  - Cliënten
+  - Anders
+Welke grondslag heb je voor de verwerking van de bijzondere persoonsgegevens:
+  - Overeenkomst
+  - Toestemming
+  - Wettelijke plicht
+  - Bescherming vitale belangen
+  - Algemeen belang (alleen voor overheden)
+  - Gerechtvaardigd belang
+Wat is het doel van de verwerking:
+  - Dienstverlening
+  - Klantrelaties
+  - Verwerken bestellingen
+  - Ledenadministratie
+  - Personeelsadministratie
+  - Salarisadministratie
+  - Leerlingenadministratie
+  - Voor het doen van aanbiedingen
+  - Voor mededelingen
+  - Klanten spaarprogramma's
+  - Marketing doeleinden
+  - Om te voldoen aan een wettelijke verplichting
+  - Uitvoering van een overeenkomst
+Verwerk je deze gegevens uitsluitend zelf:
+  - ja
+  - anee
+Waar bevindt zich de verwerker:
+  - Niet van toepassing
+  - Binnen de EU of in een land met voldoende juridische waarborgen
+  - Buiten de EU en niet in een land met voldoende juridische waarborgen
+Heb je een verwerkersovereenkomst die voldoet aan de EU Eisen:
+  - nvt
+  - ja
+  - nee
+Bewaartermijn:
+  - onbekende
+  - n maanden
+veiligheidsmaatregel:
+  - geen/nvt
+  - Encryptie persoonsgegevens
+  - Pseudonimisering persoonsgegevens
+  - Anonimisering persoonsgegevens
+  - Anti-malware
+  - Garanties m.b.t. de veiligheid van de systemen
+  - Netwerk design
+  - Toegangsbeperking/voorafgaande autorisatie
+  - Registratie van alle handelingen (loggen)
+  - Procedures voor evaluatie en herziening beveiliging
+  - overig
+bijzondere categorieën persoonsgegevens:
+  - Gegevens over ras of etnische afkomst
+  - Politieke opvattingen
+  - Godsdienstige/levensbeschouwelijke opvattingen
+  - Lidmaatschap vakbond
+  - Genetische gegevens
+  - Biometrische gegevens
+  - Gezondheid/medische gegevens
+  - Seksueel gedrag/seksuele geaardheid
+Gegevens organisatie:
+  - (Bedrijfs)naam
+  - Straatnaam en huisnummer
+  - Postcode
+  - (Woon)plaats
+  - E-mailadres
+  - Telefoonnummer
+Datum aanmaak: 1-1-2020

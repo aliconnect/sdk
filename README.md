@@ -1,5 +1,7 @@
 # AIM Software Development Kit
 
+Last release v0.0.1
+
 The Automation Integration Manager Framework is a development of [Alicon](https://alicon.aliconnect.nl) and designed by [Max van Kampen](https://www.linkedin.com/in/maxvankampen/).
 
 We supply a cloud service on [aliconnect.nl](https://aliconnect.nl) that contains:

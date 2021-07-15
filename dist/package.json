@@ -25,7 +25,7 @@
   },
   "optionalDependencies": {
   },
-  "main": "js/aim.js",
+  "main": "public/js/aim.js",
   "homepage": "https://aliconnect.nl",
   "author": "Max van Kampen",
   "license": "ISC"

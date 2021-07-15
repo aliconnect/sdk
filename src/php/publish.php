@@ -1,8 +1,10 @@
 <?php
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
-error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
-$package = json_decode(file_get_contents(__DIR__.'/../../package.json'));
+error_reporting(E_ALL & ~E_NOTICE & ~E_WARNING & ~E_STRICT & ~E_DEPRECATED);
+
+
+$package = json_decode(file_get_contents(getcwd().'/dist/package.json'));
 $version = $package->version;
 // require_once('icon.php');
 
@@ -137,9 +139,6 @@ $fname = "/aim/aliconnect/npm/$package->name@$package->version/".$argv[1];
 $path = pathinfo($fname, PATHINFO_DIRNAME);
 mkdir($path, 0777, true);
 file_put_contents($fname, $content);
-
-
-
 
 
 die($fname.PHP_EOL);

@@ -1,5 +1,5 @@
 eol = '\n';
-
+test = 'sdfgsdf';
 console.log('sdk 0.0.1')
 
 function validSchemaName(schemaName){

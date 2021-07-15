@@ -21,7 +21,7 @@
 package-lock.json
 /docs
 **/data
-
+/*.txt
 
 __**
 copy\b**
